@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [repo link)
+- Solution URL: [https://github.com/MaryAngelique/theme-clock)
 - Live Site URL: [vercel link)
 
 ## My process
