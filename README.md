@@ -26,7 +26,7 @@ Users should be able to:
 
 
 ### Project Demo
-[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loomlink)
+[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)]([loomlink](https://github.com/MaryAngelique/button-ripple))
 
 ### Links
 
